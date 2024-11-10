@@ -1,0 +1,10 @@
+{
+	"login":"aleksei@mail.ru",
+	"nologin":"leksei@mail.ru",
+	"password":"iloveregress",
+	"pole_mail":"#mail",
+	"pole_pass":"#pass",
+    "knopka_vhod":"#loginButton",
+    "text_end":"#messageHeader",
+	"text_uspeh":"Авторизация прошла успешно"
+}
